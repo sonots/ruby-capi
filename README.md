@@ -1,3 +1,5 @@
+https://sonots.github.io/ruby-capi/files.html
+
 # Prerequisites
 
 * doxygen
